@@ -6,7 +6,7 @@ import axios from "axios";
 //****************************** Test Api ********************************
 app.get("/", function (req, res) {
   res.send(
-    "Welcome to the world of science fiction, conflicting theories, fantasies and some eccentric nerds!"
+    "Welcome to couentry api "
   );
 });
 
